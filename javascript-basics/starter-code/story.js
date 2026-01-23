@@ -5,6 +5,9 @@
 // Create variables for your story elements
 // Hint: Use let for things that might change, const for things that stay the same
 
+let myName = "Brendon";
+
+
 // TODO: Add your variables here
 // Example: const heroName = "brave adventurer";
 
